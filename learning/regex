@@ -1,0 +1,38 @@
+taga-[A-Z][a-z]+
+0 0 1 0 0 0 0 0 0 0 
+[$P][0-9]+(,[0-9]+)*(.[0-9]+)*[A-Z]?
+0 0 0 0 0 0 0 1 0 0 
+[0-9][0-9]?:[0-9][0-9]
+0 0 0 0 0 1 0 0 0 0 
+alas?-[0-9][0-9]?(:[0-9][0-9])?
+0 0 0 0 0 1 0 0 0 0 
+[0-9][0-9]?(:[0-9][0-9])?(pm|am|PM|AM)
+0 0 0 0 0 1 0 0 0 0 
+(January|February|March|April|May|June|July|August|September|October|November|December|Enero|Pebrero|Marso|Abril|Mayo|Hunyo|Hulyo|Agosto|Setyembre|Oktubre|Nobyembre|Disyembre)[ ][0-9]([0-9]([0-9][0-9])?)?
+0 0 0 0 1 0 0 0 0 0 
+[0-9]+.[0-9]+[ ]+(%|percent|porsiyento)
+0 0 0 0 0 0 0 0 1 0 
+[0-9]+[ ]+(%|percent|porsiyento)
+0 0 0 0 0 0 0 0 1 0 
+(Php|P)[ ]+[0-9]+(,[0-9]+)*(.[0-9]+)*[A-Z]?
+0 0 0 0 0 0 0 1 0 0 
+[0-9][0-9]?(:[0-9][0-9])?[ ]+(pm|am|PM|AM)
+0 0 0 0 0 1 0 0 0 0 
+[0-9][0-9]?(:[0-9][0-9])?(p.m|a.m|P.M|A.M|n.u|n.g)[ ].
+0 0 0 0 0 1 0 0 0 0 
+[0-9][0-9]?(st|nd|rd|th)[ ](District|Division)
+0 0 1 0 0 0 0 0 0 0 
+(taong|noong|nitong|ngayong|ang|sa|ay|ng)[ ][0-9][0-9][0-9][0-9]
+0 0 0 0 1 0 0 0 0 0 
+Php[ ].[ ]+[0-9]+(,[0-9]+)*(.[0-9]+)*[A-Z]?
+0 0 0 0 0 0 0 1 0 0 
+[0-9][0-9]?(:[0-9][0-9])?[ ]+(p.m|a.m|P.M|A.M|n.u|n.g)[ ].
+0 0 0 0 0 1 0 0 0 0 
+alas-[0-9][0-9]?(:[0-9][0-9])?[ ]ng[ ](hapon|umaga|gabi|hating-gabi|hatinggabi|madaling-araw)
+0 0 0 0 0 1 0 0 0 0 
+Ika-[0-9][0-9]?[ ]ng[ ][A-Z][a-z]+
+0 0 0 0 1 0 0 0 0 0 
+Ika-[0-9][0-9]?[ ]ng[ ][A-Z][a-z]+[ ][0-9][0-9][0-9][0-9]
+0 0 0 0 1 0 0 0 0 0 
+(January|February|March|April|May|June|July|August|September|October|November|December|Enero|Pebrero|Marso|Abril|Mayo|Hunyo|Hulyo|Agosto|Setyembre|Oktubre|Nobyembre|Disyembre)[ ][0-9][0-9]?[ ],[ ][0-9][0-9][0-9][0-9]
+0 0 0 0 1 0 0 0 0 0 

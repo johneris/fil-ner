@@ -1,0 +1,164 @@
+City
+0 0 1 0 0 0 0 0 0 0 
+Lungsod
+0 0 1 0 0 0 0 0 0 0 
+Province
+0 0 1 0 0 0 0 0 0 0 
+Lalawigan
+0 0 1 0 0 0 0 0 0 0 
+University
+0 0 0 1 0 0 0 0 0 0 
+Unibersidad
+0 0 0 1 0 0 0 0 0 0 
+College
+0 0 0 1 0 0 0 0 0 0 
+Kolehiyo
+0 0 0 1 0 0 0 0 0 0 
+Department
+0 0 0 1 0 0 0 0 0 0 
+Departamento
+0 0 0 1 0 0 0 0 0 0 
+Bureau
+0 0 0 1 0 0 0 0 0 0 
+Airline
+0 0 0 1 0 0 0 0 0 0 
+Bank
+0 0 0 1 0 0 0 0 0 0 
+Organization
+0 0 0 1 0 0 0 0 0 0 
+Organisasyon
+0 0 0 1 0 0 0 0 0 0 
+Corporation
+0 0 0 1 0 0 0 0 0 0 
+Korporasyon
+0 0 0 1 0 0 0 0 0 0 
+Incorporated
+0 0 0 1 0 0 0 0 0 0 
+School
+0 0 0 1 0 0 0 0 0 0 
+Paaralan
+0 0 0 1 0 0 0 0 0 0 
+Pamantasan
+0 0 0 1 0 0 0 0 0 0 
+Samahan
+0 0 0 1 0 0 0 0 0 0 
+Institute
+0 0 0 1 0 0 0 0 0 0 
+Association
+0 0 0 1 0 0 0 0 0 0 
+Asosasyon
+0 0 0 1 0 0 0 0 0 0 
+Task Force
+0 0 0 1 0 0 0 0 0 0 
+Academy
+0 0 0 1 0 0 0 0 0 0 
+Akademya
+0 0 0 1 0 0 0 0 0 0 
+Company
+0 0 0 1 0 0 0 0 0 0 
+Kompanya
+0 0 0 1 0 0 0 0 0 0 
+Day
+0 0 0 0 0 0 1 0 0 0 
+Araw
+0 0 0 0 0 0 1 0 0 0 
+Month
+0 0 0 0 0 0 1 0 0 0 
+Buwan
+0 0 0 0 0 0 1 0 0 0 
+Year
+0 0 0 0 0 0 1 0 0 0 
+Taon
+0 0 0 0 0 0 1 0 0 0 
+Fiesta
+0 0 0 0 0 0 1 0 0 0 
+Pista
+0 0 0 0 0 0 1 0 0 0 
+Anibersaryo
+0 0 0 0 0 0 1 0 0 0 
+Anniversary
+0 0 0 0 0 0 1 0 0 0 
+Communications
+0 0 0 1 0 0 0 0 0 0 
+Transit
+0 0 0 1 0 0 0 0 0 0 
+Conference
+0 0 0 0 0 0 1 0 0 0 
+Symposium
+0 0 0 0 0 0 1 0 0 0 
+Colloquium
+0 0 0 0 0 0 1 0 0 0 
+New Year
+0 0 0 0 0 0 1 0 0 0 
+Christmas
+0 0 0 0 0 0 1 0 0 0 
+Halloween
+0 0 0 0 0 0 1 0 0 0 
+Feast
+0 0 0 0 0 0 1 0 0 0 
+Fiesta
+0 0 0 0 0 0 1 0 0 0 
+Pista
+0 0 0 0 0 0 1 0 0 0 
+Piyesta
+0 0 0 0 0 0 1 0 0 0 
+Telecommunications
+0 0 0 1 0 0 0 0 0 0 
+Inc
+0 0 0 1 0 0 0 0 0 0 
+Corp
+0 0 0 1 0 0 0 0 0 0 
+Bill
+0 0 0 0 0 0 0 0 0 1 
+Office
+0 0 0 1 0 0 0 0 0 0 
+Board
+0 0 0 1 0 0 0 0 0 0 
+Development
+0 0 0 1 0 0 0 0 0 0 
+United
+0 0 0 1 0 0 0 0 0 0 
+Administration
+0 0 0 1 0 0 0 0 0 0 
+Gym
+0 0 1 0 0 0 0 0 0 0 
+Agency
+0 0 0 1 0 0 0 0 0 0 
+Management
+0 0 0 1 0 0 0 0 0 0 
+Service
+0 0 0 1 0 0 0 0 0 0 
+Services
+0 0 0 1 0 0 0 0 0 0 
+Commission
+0 0 0 1 0 0 0 0 0 0 
+Authority
+0 0 0 1 0 0 0 0 0 0 
+Administration
+0 0 0 1 0 0 0 0 0 0 
+National
+0 0 0 1 0 0 0 0 0 0 
+Enterprises
+0 0 0 1 0 0 0 0 0 0 
+Network
+0 0 0 1 0 0 0 0 0 0 
+Entertainment
+0 0 0 1 0 0 0 0 0 0 
+Channel
+0 0 0 1 0 0 0 0 0 0 
+Malls
+0 0 0 1 0 0 0 0 0 0 
+Bookstore
+0 0 0 1 0 0 0 0 0 0 
+Airlines
+0 0 0 1 0 0 0 0 0 0 
+Hotel
+0 0 0 1 0 0 0 0 0 0 
+Airways
+0 0 0 1 0 0 0 0 0 0 
+Mobile
+0 0 0 1 0 0 0 0 0 0 
+Sea
+0 0 1 0 0 0 0 0 0 0 
+National
+0 0 0 1 0 0 0 0 0 0 
